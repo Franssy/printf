@@ -80,7 +80,7 @@ else
 {
 if (((flags >> 5) & 1) == 1) /* Printing a ptr address */
 {
-						
+
 wid -= 2;
 prec -= 2;
 }
